@@ -39,16 +39,16 @@ The dataset used for training the model includes the following features:
 
 ## 📂 Project Structure
 
-car_price_predictor/
-│
-├── application.py         # Main application file
-├── car.ipynb              # Jupyter notebook for model training
-├── LinearRegressionModel.pkl  # Trained model file
-├── Cleaned_Car_data.csv   # Cleaned dataset
-├── requirements.txt       # Python dependencies
-├── templates/             # HTML templates
-│   └── index.html
-└── static/                # Static files (CSS, images)
-    └── css/
-        └── style.css
+- car_price_predictor/
+- │
+- ├── application.py         # Main application file
+- ├── car.ipynb              # Jupyter notebook for model training
+- ├── LinearRegressionModel.pkl  # Trained model file
+- ├── Cleaned_Car_data.csv   # Cleaned dataset
+- ├── requirements.txt       # Python dependencies
+- ├── templates/             # HTML templates
+- │   └── index.html
+- └── static/                # Static files (CSS, images)
+-     └── css/
+-        └── style.css
 
